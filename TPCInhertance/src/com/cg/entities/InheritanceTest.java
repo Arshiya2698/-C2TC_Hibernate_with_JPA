@@ -1,4 +1,4 @@
-package com.cg.jpastart.entities;
+package com.cg.entities;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
